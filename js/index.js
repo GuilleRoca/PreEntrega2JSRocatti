@@ -1,0 +1,1 @@
+alert(`Bienvenido a la tienda On Line \nmás grande del País\nNo deje de ver nuestro catálogo y promociones`)

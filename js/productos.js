@@ -4,7 +4,7 @@ const productos = [
         "producto": "Celular Samsung Galaxy A03",
         "precio":48000,
         "descripcion":"Celular Samsung Galaxy A03 Octa-Core/Pantalla 6.5″” HD+ Cam Pr 48Mp+2Mp/Cam Fr 5Mp 64Gb rom/4Gb ram/Bat 5000 mHa",
-        "categoria": "Celular",
+        "categoria": "Celulares",
         "oferta":false,
     },{
         "id":2 ,
